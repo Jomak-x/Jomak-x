@@ -6,13 +6,6 @@
 🧠 Passionate about Full-Stack Development, Machine Learning, and intelligent systems
 </p>
 
-<h3>📊 GitHub Stats</h3>
-
-<p>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jomak-x" alt="Jakob's GitHub stats" />
-</a>
-</p>
 
 <h3>📫 Connect With Me</h3>
 
